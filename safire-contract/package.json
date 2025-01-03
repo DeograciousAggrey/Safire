@@ -1,0 +1,8 @@
+{
+    "name": "azurance-contract",
+    "devDependencies": {
+        "@chainlink/contracts-ccip": "^0.7.6",
+        "eslint": "^9.17.0",
+        "eslint-plugin-import": "^2.31.0"
+    }
+}
